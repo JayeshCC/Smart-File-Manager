@@ -230,7 +230,6 @@ def create_widgets(window):
     items.tag_configure('B', background='#0000FF')
     items.tag_configure('R', background='#FF0000')
     items.tag_configure('G', background='#00FF00')
-    items.tag_configure('B', background='#0000FF')
     items.tag_configure('Y', background='#FFFF00')
     items.tag_configure('O', background='#FF7F00')
     items.tag_configure('P', background='#7F007F')
